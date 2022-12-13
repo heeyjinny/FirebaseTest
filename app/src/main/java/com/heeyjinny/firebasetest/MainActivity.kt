@@ -15,6 +15,7 @@ class MainActivity : AppCompatActivity() {
     //뷰바인딩
     val binding by lazy { ActivityMainBinding.inflate(layoutInflater) }
 
+
     //6
     //클래스 전체에서 이용하기 위해
     //파이어베이스의 데이터베이스 전역변수 생성
